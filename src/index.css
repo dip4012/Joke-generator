@@ -1,0 +1,23 @@
+:root {
+	--color-bg-primary: #10700f;
+	--color-bg-secondary: #32ab30;
+	--color-bg-tertiary: #5ee05c;
+	--color-font-primary: #f7fca7;
+	--color-font-secondary: #ecedd8;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;
+	list-style: none;
+	text-decoration: none;
+}
+
+html,
+body,
+#root {
+	width: 100%;
+	height: 100%;
+}
